@@ -1,4 +1,3 @@
-<h1> SHRISTY JI</h1>
-<h2> BAAT KO SMJHA KRO</h2>
-<h2> SMJHA KARO</h2>
-<img src="pic_trulli.jpg" alt="Italian Trulli">
+<h1> HELLO</h1>
+<h2> FRIENDS</h2>
+<h2> HOW ARE YOU </h2>
